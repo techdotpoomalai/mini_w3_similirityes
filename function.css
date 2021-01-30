@@ -1,0 +1,32 @@
+body
+    {
+        border: 0;
+        text-justify: auto;
+        justify-content: center;
+        padding-top: 10px;
+    }
+.login b
+    {
+        border: solid 2px green;
+        background-color: green;
+        padding: 3px;
+        border-radius: 5px;
+        float: right;
+    }
+.jumbot
+    {
+        background-color: rgb(231, 238, 235);
+        padding: 5px;
+        border-radius: 4px;
+    }
+.col-sm-4
+    {
+        background-color: antiquewhite;
+        overflow: hidden;
+        width: 250px;
+    }
+.col-sm-8
+    {
+        background-color: blue;
+        float: right;
+    }
